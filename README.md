@@ -2,6 +2,8 @@
 <h1>How to test?</h1>
 <br>Run python manage.py
 <br>Send api calls to the displayed url followed by the details as explained below:
+<br>
+<br>
 to login a user call: http://localhost:8000/login/ayushsingh1315@outlook.com,password/ , if successful it wil return "login_successful"
 <br>
 <br>
